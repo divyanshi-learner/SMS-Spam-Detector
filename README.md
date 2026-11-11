@@ -2,7 +2,7 @@
 
 A machine learning web app that classifies SMS messages as **spam** or **ham**, explains which words drove the decision, and reports how reliable the model really is.
 
-**Live demo:** _add your Streamlit URL_  ·  **Team:** _add names_  ·  **Course/College:** _add_
+**Live demo:** https://sms-spam-detector-8k6tlfappyxskf4qcwgtdrl.streamlit.app/  **Team:** Divyanshi, Divanshi  ·  **Course/College:** Chandigarh Engineering college - CGC Landran (btech cse)
 
 ## Problem statement
 Spam and scam SMS messages (fake prizes, KYC/bank threats, phishing links) cause financial loss and loss of trust. This project builds and evaluates a text classifier that flags such messages, and is honest about where it fails.
