@@ -1,0 +1,5 @@
+streamlit>=1.50
+numpy
+pandas
+scipy
+scikit-learn==1.6.1
